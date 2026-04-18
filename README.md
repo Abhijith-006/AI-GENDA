@@ -1,9 +1,23 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+🦾 RoboBill: AI-Powered Invoice Assistant
+RoboBill is an intelligent invoice processing application built with Python. Leveraging the power of Google Gemini 1.5 Flash, it allows users to upload invoice images and ask specific questions about the data within them—extracting totals, itemized lists, dates, and vendor details with natural language.
 
-Description of the app ...
+🚀 Features
+Image Upload: Supports JPG, JPEG, and PNG formats.
+
+Natural Language Queries: Ask anything from "What is the total amount?" to "List all the items purchased."
+
+Gemini 1.5 Flash Integration: High-speed, multimodal AI processing for accurate text and data extraction from images.
+
+Streamlit UI: A clean, user-friendly interface for seamless interaction.
+
+🛠️ Tech Stack
+Language: Python
+
+Web Framework: Streamlit
+
+AI Model: Google Generative AI (Gemini)
+
+Image Processing: PIL (Pillow)
 
 ## Demo App
 
